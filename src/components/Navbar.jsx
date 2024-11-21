@@ -11,7 +11,7 @@ const Navbar = () => {
           to="/"
           
         >
-        <h1 className="text-lg font-bold text-yellow-500">Clueminaty</h1>
+        <h1 className="text-lg font-bold text-yellow-500">Clueminati 2.O</h1>
         </Link>
         
       </div>

@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        bungee: ['Bungee', 'sans-serif'],
+        caveat: ['Caveat', 'cursive'],
+        pressStart: ['Press Start 2P', 'monospace'],
+        poppins: ['Poppins', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
