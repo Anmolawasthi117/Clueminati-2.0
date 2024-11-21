@@ -24,11 +24,13 @@ const Home = () => {
       </div>
 
       {/* Start Adventure Button */}
+      <a href="https://forms.gle/yfYHLEqMCfReyCfYA">
       <div className="mt-8 text-center">
         <button className="bg-yellow-500 text-black text-lg px-6 py-3 rounded-full hover:bg-yellow-600 transition duration-300">
-          Start Your Adventure
+          Save your spot and start your adventure!
         </button>
       </div>
+      </a>
     </div>
   );
 };
