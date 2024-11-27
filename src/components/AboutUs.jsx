@@ -1,4 +1,6 @@
 import React from 'react';
+import krishna from '../assets/krishna.jpg';
+import thakur from "../assets/thakur.jpg"
 
 const AboutUs = () => {
   const organizers = [
@@ -6,7 +8,7 @@ const AboutUs = () => {
       name: 'Krishna Sharma',
       description: 'The mastermind behind event finances and registrations, ensuring everything is on track and running smoothly. Krishna’s attention to detail ensures that participants are seamlessly onboarded and all resources are well-managed.',
       instagram: 'https://www.instagram.com/krishna_sharma',
-      photo: 'https://via.placeholder.com/150'
+      photo: krishna
     },
     {
       name: 'Anmol Awasthi',
@@ -24,7 +26,7 @@ const AboutUs = () => {
       name: 'Aryan Singh Thakur',
       description: 'Aryan adds the perfect mix of humor and charisma as the host of the event, making sure every participant is involved and engaged. As a team manager, he handles logistics and ensures the event’s smooth execution from start to finish.',
       instagram: 'https://www.instagram.com/a.r.y.a.n_10',
-      photo: 'https://via.placeholder.com/150'
+      photo: thakur
     },
     {
       name: 'Rishabh Agrawal',
