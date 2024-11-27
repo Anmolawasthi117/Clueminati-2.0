@@ -1,6 +1,6 @@
 import React from 'react';
-import krishna from '../assets/krishna.jpg';
-import thakur from "../assets/thakur.jpg"
+import {krishna} from '../assets/krishna.jpg';
+import {thakur} from "../assets/thakur.jpg"
 
 const AboutUs = () => {
   const organizers = [

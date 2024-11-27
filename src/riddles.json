@@ -1,12 +1,127 @@
 [
   {
     "id": 1,
-    "question": "Rishab asl me kya hai?",
-    "code": "6"
+    "question": "Pariksha ka yeh hai maidan, Jahan hoti hai sabki pehchaan. Answer sheets aur papers yahan, Mujhe dhoondo yahin ke aas-paas.",
+    "code": "3"
   },
   {
     "id": 2,
-    "question": "konse cpl ne jevan barbad kra tha?",
+    "question": "Suraj ki roshni ka yeh hai ghar, Urja ka raaz yahan banta amar. Prakriti aur vigyaan ka sangam, Mujhe dhoondo jahan hota hai karam.",
+    "code": "8"
+  },
+  {
+    "id": 3,
+    "question": "Buttons aur screens ka yeh jahaan, Code likhne ka yahan hai samaan. Technologies ka khel yahin, Mujhe dhoondo keyboard ke paas wahin.",
+    "code": "5"
+  },
+  {
+    "id": 4,
+    "question": "Man aur bhavna ka yeh hai ghar, Yahan milta hai dimaag ka asar. Samajh ke baatein banate hain raah, Mujhe dhoondo jahan sochon ki baat hai khaas.",
+    "code": "6"
+  },
+  {
+    "id": 5,
+    "question": "Naksha, globe aur sthalon ka mel, Dharti ka yeh gyaan hai khel. Pahadon aur nadiyon ka hota hai zikr, Mujhe dhoondo jahan hai sansar ka chitr.",
+    "code": "9"
+  },
+  {
+    "id": 6,
+    "question": "Madad ka yeh hai ek aasan jariya, Sawalon ka yahan milta hai jawab kaariya. Mujhe dhoondo desk ke paas, Jahan har samasya ka hota hai samaadhaan khaas.",
+    "code": "2"
+  },
+  {
+    "id": 7,
+    "question": "Yahan banti hai nayi soch ki duniya, Tools aur machines ka yeh hai gharuniya. Loha aur lakdi yahin karte kaam, Mujhe dhoondo jahan banti hai nayi shaam.",
+    "code": "4"
+  },
+  {
+    "id": 8,
+    "question": "Pen, copy aur saaman ka yeh hai ghar, Yahan mile sab kuch jo chahiye har bar. Mujhe dhoondo jahan likhne ka raaz, Aur mile likhne ki har ek saaz.",
     "code": "7"
+  },
+  {
+    "id": 9,
+    "question": "Jahan ball aur net ka hota hai khel, Team ke saath banta hai mel. Uchhal kood aur shor yahan, Mujhe dhoondo jahan hai net ka samaan.",
+    "code": "1"
+  },
+  {
+    "id": 10,
+    "question": "Urja aur pragati ka hai yeh nam, Business aur vikas ka yeh hai kaam. Mujhe dhoondo jahan hai naye sapno ka asar, Adani ka yeh hai ek naya ghar.",
+    "code": "8"
+  },
+  {
+    "id": 11,
+    "question": "Yahan milti hai padhai ki raah, Madad yahan banati hai sabka saath. Sapne yahan lete hain unchi udan, Mujhe dhoondo jahan sapno ka milta hai daan.",
+    "code": "6"
+  },
+  {
+    "id": 12,
+    "question": "Smart duniya ka yeh hai jahan, Sensors aur devices ka banta hai saman. Internet se judta hai yeh khel, Mujhe dhoondo jahan hai technology ka mel.",
+    "code": "9"
+  },
+  {
+    "id": 13,
+    "question": "Chemical aur tools ka yeh ghar, Prayogon ka hota yahan asar. Science ki duniya yahin shuru, Mujhe dhoondo jahan lab ka hai khel puro.",
+    "code": "4"
+  },
+  {
+    "id": 14,
+    "question": "Yahan likhi gayi safalta ki kahani, Jo log bane hain yahan ke maharani. Achievement aur awards ka yeh hai ghar, Mujhe dhoondo jahan hai safalta amar.",
+    "code": "2"
+  },
+  {
+    "id": 15,
+    "question": "Machines aur engines ka yeh jahaan, Mechanics ke gyaan ka yahan hai saman. Mujhe dhoondo jahan tools aur models hain, Yahin milta hai engineering ka samadhan.",
+    "code": "7"
+  },
+  {
+    "id": 16,
+    "question": "Bijli ke raaz ka yeh hai kendra, Circuits aur wires yahan milta hai mool mantra. Current aur voltage ka hota yahan kaam, Mujhe dhoondo jahan lights ka hota hai naam.",
+    "code": "3"
+  },
+  {
+    "id": 17,
+    "question": "Robots aur codes ka hai yeh ghar, Innovation ka sapna yahan hota amar. Technology ke naye naye aayaam, Mujhe dhoondo jahan bante hain nayi kahaaniyan.",
+    "code": "8"
+  },
+  {
+    "id": 18,
+    "question": "Practical aur projects ka yeh hai adda, Yahan milti hai knowledge ki masti aur gadda. Mujhe dhoondo jahan hai learning ka samaan, CPL1 lab ka yeh hai ek naya pehchaan.",
+    "code": "5"
+  },
+  {
+    "id": 19,
+    "question": "Naye sapno ka yeh hai pravesh dwar, Admission ka yahan milta hai sansaar. Mujhe dhoondo jahan naye students ka hota hai saath, Admission Cell ke paas banti hai baat.",
+    "code": "4"
+  },
+  {
+    "id": 20,
+    "question": "Dress aur uniform ka yeh hai mahal, Discipline ka hota yahan ek asal. Mujhe dhoondo jahan dress code ka hota hai paal, Uniform office ke paas hota hai saudaal.",
+    "code": "7"
+  },
+  {
+    "id": 21,
+    "question": "Prem aur gyaan ka yeh hai sthaan, Yahan sabka hota hai sammaan. Jahan naam mein hai pyar aur gyaan, Mujhe dhoondo yahan ke paas asaan.",
+    "code": "6"
+  },
+  {
+    "id": 22,
+    "question": "Khaane ka swad aur baatein yahan, Sabke chehre pe laye muskaan. Chai, samose aur doston ka mela, Mujhe dhoondo jahan khushiyon ka mela.",
+    "code": "9"
+  },
+  {
+    "id": 23,
+    "question": "Duniya ka raaz yahan chhupa, Naksha aur sthalon ka bana hai rasta. Round aur map se jahan banti hai baat, Mujhe dhoondo jahan duniya ki baat.",
+    "code": "2"
+  },
+  {
+    "id": 24,
+    "question": "Shuttle aur racket ka yeh hai khel, Chaal aur kood yahan milta hai mel. Net ke paar jit ka sapna, Mujhe dhoondo jahan khel hai apna.",
+    "code": "8"
+  },
+  {
+    "id": 25,
+    "question": "Gyaan aur pragati ka yeh hai prateek, Sankalp aur utsah ka yeh hai deek. Mujhe dhoondo jahan soch badi ho, Vivekanand ke sang kuch nayi baat ho.",
+    "code": "3"
   }
 ]
