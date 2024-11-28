@@ -1,83 +1,83 @@
 [
   {
     "id": 1,
-    "question": "Pariksha ka yeh hai maidan, Jahan hoti hai sabki pehchaan. Answer sheets aur papers yahan, Mujhe dhoondo yahin ke aas-paas.",
-    "code": "3"
+    "question": "Prakriti ka karishma jo hamesha khada hai,\nSantulan ka yeh prateek sabka pasandida hai.\nYahan milega ek clue ka sanket,\nDhundho us pathar ke paas jo hai adbhut.",
+    "code": "4"
   },
   {
     "id": 2,
-    "question": "Suraj ki roshni ka yeh hai ghar, Urja ka raaz yahan banta amar. Prakriti aur vigyaan ka sangam, Mujhe dhoondo jahan hota hai karam.",
-    "code": "8"
+    "question": "Coffee ki khushboo, aur baaton ka silsila,\nChhoti si pyali mein badi badi baatein fila.\nYahan milta sukoon ka ek chhota sa kun,\nDhundho yeh clue, aur badh jao age tab sun",
+    "code": "7"
   },
   {
     "id": 3,
-    "question": "Buttons aur screens ka yeh jahaan, Code likhne ka yahan hai samaan. Technologies ka khel yahin, Mujhe dhoondo keyboard ke paas wahin.",
-    "code": "5"
+    "question": "Peechhe ka kona, jahan bhool gaye khazane,\nKitabein, purane cheezon ke kahin adhik sthaan bane.\nBeech kachre mein, kuch raaz chhupa hoga,\nYahan ka clue tumhare kaam aayega.",
+    "code": "3"
   },
   {
     "id": 4,
-    "question": "Man aur bhavna ka yeh hai ghar, Yahan milta hai dimaag ka asar. Samajh ke baatein banate hain raah, Mujhe dhoondo jahan sochon ki baat hai khaas.",
-    "code": "6"
+    "question": "Shanti aur ahimsa ka yeh paigham,\nDharam aur sanskriti ka yeh ek anjaam.\nSafed stumb pe likha hai yeh shabd,\nDhyan se dekho, milega ek clue sambhav.",
+    "code": "1"
   },
   {
     "id": 5,
-    "question": "Naksha, globe aur sthalon ka mel, Dharti ka yeh gyaan hai khel. Pahadon aur nadiyon ka hota hai zikr, Mujhe dhoondo jahan hai sansar ka chitr.",
+    "question": "Kanoon ka ghar, yeh nyay ka sansar,\nSawalon ke jawaab aur baatein beparwah.\nYahan kanoon ka sach dikhate,\nEk clue milega, doston ke saath batlate.",
     "code": "9"
   },
   {
     "id": 6,
-    "question": "Madad ka yeh hai ek aasan jariya, Sawalon ka yahan milta hai jawab kaariya. Mujhe dhoondo desk ke paas, Jahan har samasya ka hota hai samaadhaan khaas.",
+    "question": "Kitaabon ka ghar, jahan milti gyaan ki roshni,\nShabd ke sagar mein kho jaane ki hai aasni.\nSannate mein bajti sirf palti huyi kitaabon ki awaz,\nYahan dhundho jo hai gyaan ka saaz.",
     "code": "2"
   },
   {
     "id": 7,
-    "question": "Yahan banti hai nayi soch ki duniya, Tools aur machines ka yeh hai gharuniya. Loha aur lakdi yahin karte kaam, Mujhe dhoondo jahan banti hai nayi shaam.",
-    "code": "4"
+    "question": "GGCT ka yeh maan ka sthaan,\nHar utsav ka yeh mahaan maidan.\nJashn aur geeton ka hota hai yahan shor,\nDhundho clue yahan, jo karega tumhe aur.",
+    "code": "6"
   },
   {
     "id": 8,
-    "question": "Pen, copy aur saaman ka yeh hai ghar, Yahan mile sab kuch jo chahiye har bar. Mujhe dhoondo jahan likhne ka raaz, Aur mile likhne ki har ek saaz.",
-    "code": "7"
+    "question": "Screen ke piche chhupi ek duniya,\nJahaan milta har samasya ka samadhan yauniya.\nCoding ke geet, aur keyboard ka taal,\nYahan banta har solution bemisaal.",
+    "code": "0"
   },
   {
     "id": 9,
-    "question": "Jahan ball aur net ka hota hai khel, Team ke saath banta hai mel. Uchhal kood aur shor yahan, Mujhe dhoondo jahan hai net ka samaan.",
+    "question": "Balle aur ball ka yeh maidan,\nSapnon ko udan dene ka yeh sthaan.\nPractice ka rang, aur mehnat ka jadu,\nYeh clue milega jahan ball aur bat ka sambhaadu.",
     "code": "1"
   },
   {
     "id": 10,
-    "question": "Urja aur pragati ka hai yeh nam, Business aur vikas ka yeh hai kaam. Mujhe dhoondo jahan hai naye sapno ka asar, Adani ka yeh hai ek naya ghar.",
-    "code": "8"
+    "question": "Swad aur swaasthya ka sangam yeh,\nBhook mitane ka hai ek angan yeh.\nNayi chakhon ki khushboo yahan hai baste,\nYahan ka clue tumhe aage le chale.",
+    "code": "5"
   },
   {
     "id": 11,
-    "question": "Yahan milti hai padhai ki raah, Madad yahan banati hai sabka saath. Sapne yahan lete hain unchi udan, Mujhe dhoondo jahan sapno ka milta hai daan.",
-    "code": "6"
+    "question": "Samasyaon ka hal, ek jagah jo sadhaiv tayar,\nMilta hai yahan har samadhan ka sansaar.\nYahan pucho aur dhundho clue ka rang,\nMil jayega jawab bina kisi sang..",
+    "code": "1"
   },
   {
     "id": 12,
-    "question": "Smart duniya ka yeh hai jahan, Sensors aur devices ka banta hai saman. Internet se judta hai yeh khel, Mujhe dhoondo jahan hai technology ka mel.",
-    "code": "9"
-  },
-  {
-    "id": 13,
-    "question": "Chemical aur tools ka yeh ghar, Prayogon ka hota yahan asar. Science ki duniya yahin shuru, Mujhe dhoondo jahan lab ka hai khel puro.",
-    "code": "4"
-  },
-  {
-    "id": 14,
-    "question": "Yahan likhi gayi safalta ki kahani, Jo log bane hain yahan ke maharani. Achievement aur awards ka yeh hai ghar, Mujhe dhoondo jahan hai safalta amar.",
+    "question": "Pravesh ka dwar, sabki pehli nazar,\nSwagat karne wala yeh ek amar amar.\nHar sawal ka yeh deta hai jawab,\nDhyaan do yahan par ek clue ka hai pravah.",
     "code": "2"
   },
   {
+    "id": 13,
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "3"
+  },
+  {
+    "id": 14,
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "8"
+  },
+  {
     "id": 15,
-    "question": "Machines aur engines ka yeh jahaan, Mechanics ke gyaan ka yahan hai saman. Mujhe dhoondo jahan tools aur models hain, Yahin milta hai engineering ka samadhan.",
-    "code": "7"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "4"
   },
   {
     "id": 16,
-    "question": "Bijli ke raaz ka yeh hai kendra, Circuits aur wires yahan milta hai mool mantra. Current aur voltage ka hota yahan kaam, Mujhe dhoondo jahan lights ka hota hai naam.",
-    "code": "3"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "2"
   },
   {
     "id": 17,
