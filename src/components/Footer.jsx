@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
-import AboutUs from './AboutUs';
-import TermsAndConditions from './TermsAndConditions';
-import Modal from './Modal';
+import React, { useState } from "react";
+import AboutUs from "./AboutUs";
+import TermsAndConditions from "./TermsAndConditions";
+import Modal from "./Modal";
+//hres
 
 const Footer = () => {
   const [showAboutModal, setShowAboutModal] = useState(false);
