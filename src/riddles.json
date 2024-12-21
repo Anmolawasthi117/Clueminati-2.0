@@ -3,7 +3,7 @@
   {
     "id": 1,
     "question": "Prakriti ka karishma jo hamesha khada hai,\nSantulan ka yeh prateek sabka pasandida hai.\nYahan milega ek clue ka sanket,\nDhundho us pathar ke paas jo hai adbhut.",
-    "code": "5"
+    "code": "4"
   },
   {
     "id": 2,
@@ -12,8 +12,8 @@
   },
   {
     "id": 3,
-    "question": "Peechhe ka kona, jahan bhool gaye khazane,\nKitabein, purane cheezon ke kahin adhik sthaan bane.\nBeech kachre mein, kuch raaz chhupa hoga,\nYahan ka clue tumhare kaam aayega.",
-    "code": "3"
+    "question": "EC ki unchai jo QR tak pahuchaye",
+    "code": "4"
   },
   {
     "id": 4,
@@ -72,8 +72,8 @@
   },
   {
     "id": 15,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "4"
+    "question": "AGAR DIMAG HAI TOH KAR JAO CLUEMINATI KO WIN \n AGLA QR HAI WAHAN JAHAN PANI MAI RHTI HAI DOLPHIN",
+    "code": "2"
   },
   {
     "id": 16,
@@ -123,6 +123,21 @@
   {
     "id": 25,
     "question": "Gyaan aur pragati ka yeh hai prateek, Sankalp aur utsah ka yeh hai deek. Mujhe dhoondo jahan soch badi ho, Vivekanand ke sang kuch nayi baat ho.",
+    "code": "3"
+  },
+  {
+    "id": 41,
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "0"
+  },
+  {
+    "id": 49,
+    "question": "yeh hai ek aesi laboratory\n Jahan padte hai biochemistry\n Karte hai reaction banate hai medicine\n Dhoodho QR in pharma agar karna hai win!",
+    "code": "4"
+  },
+  {
+    "id": 65,
+    "question": "pahucho wahan jahan hota hai admission sabka complete \n, QR kroge scan tabhi toh kar paoge baki teams se compete!",
     "code": "3"
   }
 ]
