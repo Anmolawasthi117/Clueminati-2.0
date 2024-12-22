@@ -58,7 +58,7 @@ const Home = () => {
       <section className="my-10 text-center">
         <h2 className="text-2xl sm:text-3xl font-bold text-yellow-500 mb-6 font-bungee">Ready to Join the Hunt?</h2>
         <a
-          href="https://forms.gle/yfYHLEqMCfReyCfYA"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfv-m9fZeAlpWlpwnahAFmaZ3R-tsHGAigtyoE07QLmSTEqdA/viewform"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-yellow-500 text-black font-semibold text-lg sm:text-xl px-8 py-4 rounded-full hover:bg-yellow-600 transition duration-300 font-poppins"
