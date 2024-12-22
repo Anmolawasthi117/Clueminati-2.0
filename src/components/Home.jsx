@@ -73,8 +73,8 @@ const Home = () => {
         
         <p className="mt-2 font-poppins">📞 <span className="font-semibold">Student Coordinators:</span></p>
         <ul className="font-poppins">
-          <li>Krishna Sharma (7017715582)</li>
-          <li>Anmol Awasthi (9685359511)</li>
+          <li>Manas Jain(8319089410)</li>
+          <li>Kartik Jain(7489220330)</li>
         </ul>
         <p className="mt-4 text-xl italic font-caveat">Let the Clueminati legacy continue! 🔍✨</p>
       </footer>
