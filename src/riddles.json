@@ -2,18 +2,18 @@
 
   {
     "id": 1,
-    "question": "Campus me hai ek jagah , \n Couples ke liye yeh hai ek swarg sama , \n Jahan waqt rukta hai aur baatein chalti hain , \n Mujhe dhoondo, jahan feelings khul ke dikhti hain.",
-    "code": "2"
+    "question": "Main khud se nahi bolta,Par jab button dabate hain,Main chalu ho jaata hoon,Upar ya neeche, sabko le jaata hoon.",
+    "code": "3"
   },
   {
     "id": 2,
     "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "5"
+    "code": "4"
   },
   {
     "id": 3,
-    "question": "EC ki unchai jo QR tak pahuchaye",
-    "code": "4"
+    "question": "Hai ye aisi jaga Jaha sune jhate hai Her kissi ke Man ke Vichar. Agar agla QR pahna hai Toh le aao apne psycho Dost ko mere pass.",
+    "code": "6"
   },
   {
     "id": 4,
@@ -22,382 +22,382 @@
   },
   {
     "id": 5,
-    "question": ".Ek businessman jo retail ka raja hai, \n D-Mart ka empire uska naya saja hai, \n Low prices ka king, har customer ka dost, \n Batao kaun hai yeh wealth ka host?",
-    "code": "4"
-  },
-  {
-    "id": 6,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "1"
-  },
-  {
-    "id": 7,
-    "question": "Ek jagah jo na library hai na lab , \n Par yahan dimaag aur haath ka hota hai zabardast kaam! Rectangles , \n circle lines ki yeh hai duniya, Compass, scale, aur drafter yahan banti hai tumhari zubaan., \n Sirf ek drawing sheet aur dimag ka hai Kaam.Batao toh, yeh kiska hai naam ?",
+    "question": "Ek aise engineer ka department, jo mitti se pyaar kare, Din bhar survey karte karte, poles aur tape ko yaad kare! Batao kaunsa department hai ye ?",
     "code": "7"
   },
   {
+    "id": 6,
+    "question": "Bridge Ke Niche Spandan ke pass, Mujh mein chhupe Hai Kai purane Raaz, Lohe ke dher romanchak Se Bhare , yah Jagah Sabko lage thoda khatarnak.",
+    "code": "5"
+  },
+  {
+    "id": 7,
+    "question": "Woh hai jo billion-dollar empire JIO ka malik, Jiska naam hai duniya mein famous, iconic. Uski photo ke saath ek quote likha hai, Tumhara agla clue wahi pe chhupa hai ",
+    "code": "2"
+  },
+  {
     "id": 8,
-    "question": "Do alag duniya ko ek karta hai link , \n Upar ka rasta, jisme hai sabka instinct , \n Ek taraf coding aur machines ki baat , \n Dusri taraf business aur marketing ki shauqaat , \n Dhundo woh bridge jo banata hai baat , \n",
-    "code": "1"
+    "question": "Ek Jagah college ke andar milta Jahan question ka answer,sawalon Ka samander jawabo Ka Kinara ,waha baithe log banae Tumhara Sahara ,Na Koi class Na library yah Kuchh aur hai, yahan vah Sawal Jawab ka hi Shor Hai",
+    "code": "2"
   },
   {
     "id": 9,
-    "question": "Jahan milti hai rang-birangi diary aur pen , \n Exam ke pehle yahan aata har student , \n Canteen ke paas ya ek chhoti si jagah , \n Kaun si jagah hai yeh, jo sabki zarurat ban jayein sada , \n",
+    "question": "Information bhi hum denge , Technology bhi hum denge, Department hai aisa jaha computer khub milenge",
     "code": "6"
   },
   {
     "id": 10,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "9"
+    "question": "yeh bharta hai puri pehli manzil ki bottle, qr milega jab bhoojoge yeh riddle.(CT)",
+    "code": "2"
   },
   {
     "id": 11,
-    "question": "main ek aesa entrance hun jahan se dikhti hai parking (herbal garden) , \n Just enter hote hi mujhse milegi tumhe MBA wing ",
-    "code": "7"
+    "question": "Campus me hai ek jagah, Couples ke liye yeh hai ek swarg sama, Jahan waqt rukta hai aur baatein chalti hain, Mujhe dhoondo, jahan feelings khul ke dikhti hain. ",
+    "code": "6"
   },
   {
     "id": 12,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "question": "Jahan hoti hai kanoon ki asli battle, Jahan har word ki importance hai ek fine settle. Ek jagah hai jahan sabke faces par hai tension, Wahi tumhara clue chhupa hai, dhundhna hai us jagah ka extension",
     "code": "2"
   },
   {
     "id": 13,
-    "question": "Jahan hoti hai sunwai, sabke paas apni baat , \n Jahan case ki taiyaari mein hai sabka saath , \n Ek aisi jagah hai jahan sabka hota hai defense , \n Wahi tumhara clue hai, dhundhna hai uska presence , \n" ,
-    "code": "8"
-  },
-  {
-    "id": 14,
-    "question": " law department hota hai yahan se shuru \n Naay , insaaf sikhate hai yahan guru \n Dhoodhna hai beta tumhe yeh darwaza \n Entrance mai pahuch kar kro QR ka andaza! \n",
-    "code": "1"
-  },
-  {
-    "id": 15,
-    "question": "AGAR DIMAG HAI TOH KAR JAO CLUEMINATI KO WIN , \n AGLA QR HAI WAHAN JAHAN PANI MAI RHTI HAI DOLPHIN",
-    "code": "2"
-  },
-  {
-    "id": 16,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "6"
-  },
-  {
-    "id": 17,
-    "question": " kaam ke pass hai ek sukun Ka Thikana , \n Jahan plate Mein Hai Swad ka khajana , \n workshop ke kareeb Hai yah Jagah  , \n dhundho use Jahan ko aaega maja.",
-    "code": "9"
-  },
-  {
-    "id": 18,
-    "question": "upar Pharmacy , neeche hai civil , \n Cl-14 aur mia ke beech  hai yeh lab ,now figure out this riddle!",
-    "code": "9"
-  },
-  {
-    "id": 19,
-    "question": "Yahan milegi fresh hawa aur sukoon ka ehsaas , \n Ped-paudhon ke saath shanti ka vishwas , \n Jahan prakriti ke sang hota hai din ka aaram , \n Batao kahan hai yeh hariyali ka maidan , \n",
-    "code": "1"
-  },
-  {
-    "id": 20,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "8"
-  },
-  {
-    "id": 21,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "2"
-  },
-  {
-    "id": 22,
-    "question": "bulb wlaa ped hai in front of college entrance , \n Solar energy ko use karta to run bulb and fan",
-    "code": "7"
-  },
-  {
-    "id": 23,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "question": "Ek jagah jo na library hai na lab, Par yahan dimaag aur haath ka hota hai zabardast kaam! Rectangles, circles aur lines ki yeh hai duniya, Compass, scale, aur drafter yahan banti hai tumhari zubaan. Sirf ek drawing sheet aur dimag ka hai Kaam.Batao toh yeh kiska naam hai?" ,
     "code": "3"
   },
   {
+    "id": 14,
+    "question": " mere pass Har Sawal ka jawab hai kabhi checking kabhi check out ka kam hai ,main hun aapka pahla counter jab Hotel Mein Aate Ho",
+    "code": "5"
+  },
+  {
+    "id": 15,
+    "question": "Yeh jagah lagti ek normal sa room, Par yahan chhupi hai stamina aur skill ka boom.  Shor hai kabhi ball ka, kabhi sneakers ka awaaz, Kaunsa hai yeh kona, jo rakhta hai sports ka raaz?",
+    "code": "8"
+  },
+  {
+    "id": 16,
+    "question": "Yahan words aur sentences bante hain hero, Language seekhne ka hai yeh zero se pro. College ke ek kone mein hai iska asar, Dhundo woh jagah jo hai English ka ghar.",
+    "code": "5"
+  },
+  {
+    "id": 17,
+    "question": " law department hota hai yahan se shuru, Naay , insaaf sikhate hai yahan guru, Dhoodhna hai beta tumhe yeh darwaza , Entrance mai pahuch kar kro QR ka andaza!",
+    "code": "2"
+  },
+  {
+    "id": 18,
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "4"
+  },
+  {
+    "id": 19,
+    "question": "Ek businessman jo retail ka raja hai, D-Mart ka empire uska naya saja hai. Low prices ka king, har customer ka dost, Batao kaun hai yeh wealth ka host?",
+    "code": "2"
+  },
+  {
+    "id": 20,
+    "question": "do QR honge saath Jahan sab dues krte hai resolve , ek qr se fees bharo , dooje se karo riddle solve. (CT)",
+    "code": "7"
+  },
+  {
+    "id": 21,
+    "question": "I Am related to the very future of electricity, This is just absolutely true , I am a laboratory which studies sustainability, Use Sun's Power to find the clue (CT)",
+    "code": "3"
+  },
+  {
+    "id": 22,
+    "question": "Computer Science and Engineering=CSE, Internet Of Things= ?",
+    "code": "5"
+  },
+  {
+    "id": 23,
+    "question": "yeh hai ek aesi laboratory, Jahan padte hai biochemistry, Karte hai reaction banate hai medicine, Dhoodho QR in pharma agar karna hai win!",
+    "code": "7"
+  },
+  {
     "id": 24,
-    "question": " jaino ke aaan hai , jaino ki baan hai , \n Yeh hai jaino ka stambh jo college ki shaan hai , \n QR nhi hoga uspar  Dekhna aaju baju , \n Joote pehnkr chadhna nahi usme , \n Samjhe beta raju!!",
-    "code": "1"
+    "question": "pariksha ka hai yeh maidan, karte hai yahan se datesheet and result ka ailaan, karo aas paas qr ki pehchaan",
+    "code": "3"
   },
   {
     "id": 25,
-    "question": "Ek aisa banda jo duniya mein chha gaya , \n Google ka CEO ban ke sabka dil jeet gaya , \n Indian roots, par global hai naam , \n Batao yeh hai kaun si shaan? , \n.",
-    "code": "6"
+    "question": "karte hai sirf Java python ki baatll, Compiler algorithm mai rhte hai inke sare jazbaat  Jaldi Dhoodho iss department ko , Tabhi de paoge baki teams ko maat!(CT).",
+    "code": "9"
   },
   {
     "id": 26,
-    "question": "Hai ye kapro ka kazana , \n  first year Walo ko yaha jaroor hai aana , \n milega yaha agla clue jise solve karke aage hai jana.",
+    "question": "KARTE HAI PRACTICE WITH BALL AND BAT, AAJU BAJU LAGI HOTI HAI MERE GREEN NET;",
     "code": "4"
   },
   {
     "id": 27,
     "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "3"
+    "code": "8"
   },
   {
     "id": 28,
-    "question": "Pattharo se iski pechan hai  , \n Saher ke prachen isthano mai Mahan hai , \n Santulan iska la jawab  , \n Jase lage isme koi jaan hai , \n",
-    "code": "5"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "7"
   },
   {
     "id": 29,
-    "question": "talent aur mehnat ko milta hai yahan inaam, \n Financially deta hai students ko aaram, \n Paise ki chinta ka hota hai ant , \n Agle QR ke liye pahucho turant !",
-    "code": "4"
+    "question": "agar jante ho college ki theek se geography ,tho dundho agla QR ya maan lo mafi (LAB).",
+    "code": "8"
   },
   {
     "id": 30,
-    "question": "placement ke pyase logo  ki yehi kahani , \n Nhi mili job toh abhi samne se peeyo paani",
-    "code": "4"
+    "question": "Bade aksharon mein likha hai yah Naam ,college ki shan aur Chhupa usmein Naam,  entrance ke pass parking ke kareeb Jo Iske pass Hai vah Apna QR ke kareeb.",
+    "code": "2"
   },
   {
     "id": 31,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "5"
+    "question": "AIML  AUR LIBRARY KE PASS MAI AATA HUN , COMPUTER LABS MAI SABSE PHLA MAI KEHLAATA HUN",
+    "code": "2"
   },
   {
     "id": 32,
-    "question": "yahan miltan hai har colour pink ho ya blue , \n experiment ki hai yeh duniya yehi milega agla clue(its)",
-    "code": "3"
+    "question": "Loha Lakadi aur design Ka Yahi Hai Khel , safety aur hard work ke baithane padta hai Mel , Chhoti Badi mechanic Se Karte Yahan kam , batao is Jagah ka kya hai naam (CT).",
+    "code": "8"
   },
   {
     "id": 33,
-    "question": "KARTE HAI PRACTICE WITH BALL AND BAT , \n AAJU BAJU LAGI HOTI HAI MERE GREEN NET",
+    "question": " Hai ye kapro ka kazana,  first year Walo ko yaha jaroor hai aana , milega yaha agla clue jise solve karke aage hai jana.",
     "code": "1"
   },
   {
     "id": 34,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "2"
+    "question": " shuru hota hai ITS jahan se wahi hoga QR pin, Solve kro riddles sari tabhi kroge win",
+    "code": "6"
   },
   {
     "id": 35,
-    "question": "NBA se hua naam, \n Uche logo se hui pechan, \n Dundho mujhe court ke pass , \n Jaha hoti hai energy khaas, \n",
+    "question": "yeh entrance hai teeno College me se ek , jaakr College of excellence mai dekh",
     "code": "3"
   },
   {
     "id": 36,
-    "question": "ITS KI Kitaaobon ki bheed me milega agla clue , \n  Before taking any books Please clear all the fee due",
-    "code": "3"
+    "question": "yahan miltan hai har colour pink ho ya blue , experiment ki hai yeh duniya yehi milega agla clue(its)",
+    "code": "8"
   },
   {
     "id": 37,
-    "question": "shuru hota hai ITS jahan se wahi hoga QR pin , \n Solve kro riddles sari tabhi kroge win",
-    "code": "6"
-  },
-  {
-    "id": 38,
-    "question": "placement ki taiyaari karate hai yeh , \n Fir bhi nhi milti koi naukri, \n QR dhoodhne ke liye thoda , \n Dohrao apni khopri ",
-    "code": "3"
-  },
-  {
-    "id": 39,
-    "question": "mujhe dhoodhne ka ek hi hai mantra , \n Aao aur ghumo EC ka lab - the eyantra  ",
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
     "code": "1"
   },
   {
+    "id": 38,
+    "question": "NBA se hua naam, Uche logo se hui pechan, Dundho mujhe court ke pass , Jaha hoti hai energy khaas. ",
+    "code": "1"
+  },
+  {
+    "id": 39,
+    "question": "First floor par Spandan Ke Upar ek jagah hai khaas, Students yahaan hote hain mast aur udaas. Kabhi bug fix karte hain, kabhi run karte code, Batao kahan chhipi hai yeh node(ITS)",
+    "code": "9"
+  },
+  {
     "id": 40,
-    "question": "Valentine mai bolte hai 'I LOVE YOU' , \n gyan  ganga se pyaar kroge toh milega agla clue",
-    "code": "3"
+    "question": "bulb wlaa ped hai in front of college entrance, Solar energy ko use karta to run bulb and fan",
+    "code": "2"
   },
   {
     "id": 41,
     "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "0"
+    "code": "4"
   },
   {
     "id": 42,
-    "question": "AIML  AUR LIBRARY KE PASS MAI AATA HUN , COMPUTER LABS MAI SABSE PHLA MAI KEHLAATA HUN (ITS)",
-    "code": "9"
+    "question": "Canteen se thoda door ek jagah hai meri, Padhai ke tools yahin milte hain sare, Notebook aur fevicol ka yahin lagta hai bazaar, Mujhe dhoondho, main hoon tumhare sapno ka sansaar.",
+    "code": "6"
   },
   {
     "id": 43,
-    "question": "Bade aksharon mein likha hai yah Naam , \n college ki shan aur Chhupa usmein Naam, \n entrance ke pass parking ke kareeb , \n Jo Iske pass Hai vah Apna QR ke kareeb",
-    "code": "8"
+    "question": "Yahan har kaagaz hai khaas, Yeh dikhate hain jeet ka ehsaas. Certificates se saja hai yeh sthaan, Dhundho yahan agla paighaam.",
+    "code": "3"
   },
   {
     "id": 44,
-    "question": ".Woh hai jo billion-dollar empire jio ka malik , \n Jiska naam hai duniya mein famous, iconic , \n Uski photo ke saath ek quote likha hai , \n Tumhara agla clue wahi pe chhupa hai , \n",
-    "code": "7"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "2"
   },
   {
     "id": 45,
     "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "5"
-  },
-  {
-    "id": 46,
-    "question": "First floor par Spandan Ke Upar ek jagah hai khaas , \n Students yahaan hote hain mast aur udaas , \n Kabhi bug fix karte hain, kabhi run karte code , \n Batao kahan chhipi hai yeh node(ITS) , \n",
-    "code": "9"
-  },
-  {
-    "id": 47,
-    "question": "Duniya hai jaha agla qr hai vaha",
-    "code": "7"
-  },
-  {
-    "id": 48,
-    "question": "Gyan Ganga ki Jaan , \n gyan ganga ki Shaan , \n higest package hai jinke naam , \n Holdings mai dhundo iska Kaam.",
-    "code": "1"
-  },
-  {
-    "id": 49,
-    "question": "yeh hai ek aesi laboratory, \n Jahan padte hai biochemistry, \n Karte hai reaction banate hai medicine, \n Dhoodho QR in pharma agar karna hai win!",
     "code": "4"
   },
   {
-    "id": 50,
-    "question": "pariksha ka hai yeh maidan , \n karte hai yahan se datesheet and result ka ailaan , \n karo aas paas qr ki pehchaan",
+    "id": 46,
+    "question": "placement ki taiyaari karate hai yeh, Fir bhi nhi milti koi naukri, QR dhoodhne ke liye thoda , Dohrao apni khopr ",
+    "code": "7"
+  },
+  {
+    "id": 47,
+    "question": "pahucho wahan jahan hota hai admission sabka complete, QR kroge scan tabhi toh kar paoge baki teams se compete!",
     "code": "8"
   },
   {
+    "id": 48,
+    "question": "AGLA QR DOODHNE MAI NHI HONI CHAHIYE TROUBLE , JUST SOLVE THE RIDDLE LIKE, PV SINDHU SMASHES A SHUTTLE",
+    "code": "5"
+  },
+  {
+    "id": 49,
+    "question": "angrezo ke samne inne nahi mani haar, Inne shuru kiya  ramakrishna mission , Dhoodho kon hai yeh shaksh tabhi milega QR",
+    "code": "7"
+  },
+  {
+    "id": 50,
+    "question": "Ek aisa banda jo duniya mein chha gaya, Google ka CEO ban ke sabka dil jeet gaya. Indian roots, par global hai naam, Batao yeh hai kaun si shaan ",
+    "code": "4"
+  },
+  {
     "id": 51,
-    "question": " hu har Hotel Mein per room Mein Nahin Milta , \n batata hun Sabko Rasta per Apni Jagah se nahin hilta.",
-    "code": "6"
+    "question": " Duniya hai jaha agla qr hai vaha",
+    "code": "5"
   },
   {
     "id": 52,
-    "question": " Hai ye aisi jaga Jaha sune jhate hai Her kissi ke Man ke Vichar., \n Agar agla QR pahna hai Toh le aao apne psycho Dost ko mere pass.(CT) ",
-    "code": "3"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk. ",
+    "code": "9"
   },
   {
     "id": 53,
-    "question": "agar jante ho college ki theek se geography , \n tho dundho agla QR ya maan lo mafi (LAB).",
-    "code": "5"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "1"
   },
   {
     "id": 54,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "2"
+    "question": "Valentine mai bolte hai 'I LOVE YOU' , gyan  ganga se pyaar kroge toh milega agla clue",
+    "code": "8"
   },
   {
     "id": 55,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "5"
-  },
-  {
-    "id": 56,
-    "question": "yeh entrance hai teeno College me se ek , \n jaakr College of excellence mai dekh ",
+    "question": "placement ke pyase logo  ki yehi kahani, Nhi mili job toh abhi samne se peeyo paani",
     "code": "2"
   },
   {
+    "id": 56,
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "4"
+  },
+  {
     "id": 57,
-    "question": "I Am related to the very future of electricity, \n This is just absolutely true , \n I am a laboratory which studies sustainability, \n Use Sun's Power to find the clue (CT), \n",
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
     "code": "4"
   },
   {
     "id": 58,
-    "question": "Yahan hai safalta ki kahani , \n Har ek frame hai kitni purani , \n College ke sitare yahaan hain sajaye , \n Jahan certificates hain deewar pe lagaye ",
-    "code": "4"
-  },
-  {
-    "id": 59,
-    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
-    "code": "2"
-  },
-  {
-    "id": 60,
-    "question": "yeh paisa paisa karta hai, yeh paise mai hi marta hai , \n sabko message daal daal kar paisa ikkatha krta hai (CT)",
-    "code": "4"
-  },
-  {
-    "id": 61,
-    "question": "karte hai sirf Java python ki baat, \n Compiler algorithm mai rhte hai inke sare jazbaat, \n Jaldi Dhoodho iss department ko , \n Tabhi de paoge baki teams ko maat!(CT)",
+    "question": "pahucho yeh department using BODMAS, Algebra , calculas aati hai yahan ke teacher ko raas ",
     "code": "5"
   },
   {
+    "id": 59,
+    "question": "Khel ke maidan ke pass hun,  bacche Naam Se darte , Hain control Yahan Se Sab karta hun , Dar ke time table Yahan bante Hain",
+    "code": "6"
+  },
+  {
+    "id": 60,
+    "question": "ask  mirror to  show you  the QR , So that you can win this clue war!",
+    "code": "1"
+  },
+  {
+    "id": 61,
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "9"
+  },
+  {
     "id": 62,
-    "question": "eh jagah lagti ek normal sa room , \n Par yahan chhupi hai stamina aur skill ka boom , \n Shor hai kabhi ball ka, kabhi sneakers ka awaaz , \n Kaunsa hai yeh kona, jo rakhta hai sports ka raaz? , \n",
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
     "code": "3"
   },
   {
     "id": 63,
-    "question": "South Ka Swad aur North Ka Rang , \n Ek Hai jagah Jahan Milte Hain Sab khane ke sang , \n dosa Pav Bhaji aur Chhole Ka Mela, \n  Mujhe dhundho yahi hai khela.(CE) \n",
-    "code": "7"
+    "question": "Congratulation! You have found cracked all the codes. Go to registration desk.",
+    "code": "0"
   },
   {
     "id": 64,
-    "question": "practical duniya ki Yahan Se Hoti Hai start, Loha Lakadi Se Lekar tools tak ki hai ye art ,Yahan hard work karna se ho jata hai pet Khali , isiliye Baju Mein canteen bhi banaa Li (CT).",
-    "code": "3"
+    "question": "museum hai par museum jesa dikhta nahi hai, Hai yahan dawaiyo ka stock par bikta nahi hai  Jao pharmacy dhoodho QR , Agar jeetna hai yeh clue-war",
+    "code": "0"
   },
   {
     "id": 65,
-    "question": "pahucho wahan jahan hota hai admission sabka complete , \n, QR kroge scan tabhi toh kar paoge baki teams se compete!",
+    "question": "ITS KI Kitaaobon ki bheed me milega agla clue, Before taking any books Please clear all the fee due",
     "code": ""
   },
   {
     "id": 66,
-    "question": "Loha Lakadi aur design Ka Yahi Hai Khel safety aur hard work ke baithane padta hai Mel Chhoti Badi mechanic Se Karte Yahan kam batao is Jagah ka naam.",
+    "question": "garam garam dosa aur masaledar bhajiye Chhole Bhature Yahan Karte dil khush , bhukhe doston ka hai yah Thikana , dhundho Mujhe bus menu Bhul Mat Jana(CE)",
     "code": ""
   },
   {
     "id": 67,
-    "question": "AGLA QR DOODHNE MAI NHI HONI CHAHIYE TROUBLE , \nJUST SOLVE THE RIDDLE LIKE, \nPV SINDHU SMASHES A SHUTTLE ",
+    "question": "talent aur mehnat ko milta hai yahan inaam, Financially deta hai students ko aaram, Paise ki chinta ka hota hai ant , Agle QR ke liye pahucho turant !",
     "code": ""
   },
   {
     "id": 68,
-    "question": "Jahan hoti hai exam ki planning , \n Har document ki Yahan Hoti Hai scanning , \n schedule aur result Sab Yahan hote hain set , \n Main Hun vahan jo hai exam ke sabse bada secret. ",
+    "question": ".Dil Se Suno Jahan Gunje Awaaz Bada event ya hota hai Khas naam hai iska Ek Dhadkan Jaisa Agla QR ko dhundh lo Yahan clue Hai Aisa ",
     "code": ""
   },
   {
     "id": 69,
-    "question": ".Ek aise engineer ka department, \n jo mitti se pyaar kare, , \n Din bhar survey karte karte, poles aur tape ko yaad kare!, \n Batao kaunsa department hai ye ?",
+    "question": " AGAR DIMAG HAI TOH KAR JAO CLUEMINATI KO WIN, AGLA QR HAI WAHAN JAHAN PANI MAI RHTI HAI DOLPHIN",
     "code": ""
   },
   {
     "id": 70,
-    "question": "museum hai par museum jesa dikhta nahi hai,, \n Hai yahan dawaiyo ka stock par bikta nahi hai , \n Jao pharmacy dhoodho QR ,, \n Agar jeetna hai yeh clue-war, \n",
+    "question": " jaino ke aaan hai , jaino ki baan hai , Yeh hai jaino ka stambh jo college ki shaan hai ,QR nhi hoga uspar  Dekhna aaju baju , Joote pehnkr chadhna nahi usme , Samjhe beta raju!!",
     "code": ""
   },
   {
     "id": 71,
-    "question": "mirror always tell you what is true!! , \n, Go ask the mirror for the next clue !",
+    "question": "kaam ke pass hai ek sukun Ka Thikana ,Jahan plate Mein Hai Swad ka khajana ,workshop ke kareeb Hai yah Jagah ,dhundho use Jahan ko aaega maja.",
     "code": ""
   },
   {
     "id": 72,
-    "question": "pahucho yeh department using BODMAS , \n Algebra , calculas aati hai yahan ke teacher ko raas, \n",
+    "question": "Gyan Ganga ki Jaan gyan ganga ki Shaan ,highest package hai jinke naam , Holdings mai dhundo iska Kaam.",
     "code": ""
   },
   {
     "id": 73,
-    "question": "Bridge Ke Niche Spandan ke pass , Mujh mein chhupe Hai Kai purane Raaz , \n Lohe ke dher romanchak Se Bhare , yah Jagah Sabko lage thoda khatarnak.",
+    "question": "EC ki unchai jo QR tak pahuchaye .",
     "code": ""
   },
   {
     "id": 74,
-    "question": "Main khud se nahi bolta , \n Par jab button dabate hain , \n Main chalu ho jaata hoon , \n Upar ya neeche, sabko le jaata hoon , \n",
+    "question": "Do alag duniya ko ek karta hai link, Upar ka rasta, jisme hai sabka instinct. Ek taraf coding aur machines ki baat, Dusri taraf business aur marketing ki shauqaat. Dhundo woh bridge jo banata hai baat.",
     "code": ""
   },
   {
     "id": 75,
-    "question": " 'VIVEK' se dhoodhoge tabhi milega QR ka 'ANAND' , \n yeh the freedom fighter jinne kiya ramakrishna mission buland",
+    "question": " Yahan milegi fresh hawa aur sukoon ka ehsaas, Ped-paudhon ke saath shanti ka vishwas. Jahan prakriti ke sang hota hai din ka aaram, Batao kahan hai yeh hariyali ka maidan ",
     "code": ""
   },
   {
     "id": 76,
-    "question": "Dil Se Suno Jahan Gunje Awaaz , \n Bada event ya hota hai Khas, \n naam hai iska Ek Dhadkan Jaisa , \n Agla QR ko dhundh lo Yahan clue Hai Aisa",
+    "question": "practical duniya ki Yahan Se Hoti Hai start Loha Lakadi Se Lekar tools tak ki hai ye art ,Yahan hard work karna se ho jata hai pet Khali isiliye Baju Mein ITS canteen bhi banaa Li ",
     "code": ""
   },
   {
     "id": 77,
-    "question": "Ek Jagah college ke andar milta Jahan question ka answer , \n sawalon Ka samander jawabo Ka Kinara , \n waha baithe log banae Tumhara Sahara , \n Na Koi class Na library yah Kuchh aur hai,, \n yahan vah Sawal Jawab ka hi Shor Hai.",
+    "question": "Pattharo se iski pechan hai  Saher ke prachen isthano mai Mahan ,  Santulan iska la jawab  Jase lage isme koi jaan ",
     "code": ""
   },
   {
     "id": 78,
-    "question": " Information bhi hum denge , \n Technology bhi hum denge , \n Department hai aisa jaha computer khub milenge 'haayee' (CT)",
+    "question": " main ek aesa entrance hun jo hai toh ITS ka part par hai uske bhut opposite,  MBA aur pharma ke students karte hai mujhse enter , as they are the nearest fit !",
     "code": ""
   },
   {
     "id": 79,
-    "question": "yeh bharta hai puri pehli manzil ki bottle , \n qr milega jab bhoojoge yeh riddle.(CT).",
+    "question": "niche ki Manjil sabka hai yahan stop, padhaai aur silence Yahan rahata always on top, Hai Ek Jagah Jahan Shanti Aur kitabon Ka Mel, re-issue every month without any fail",
     "code": ""
   },
   {
     "id": 80,
-    "question": "niche ki Manjil sabka hai yahan stop \b padhaai aur silence Yahan rahata always on top , \n Hai Ek Jagah Jahan Shanti Aur kitabon Ka Mel , \n re-issue every month without any fail.",
+    "question": "mujhe dhoodhne ka ek hi hai mantra , Aao aur ghumo EC ka lab - the eyantra",
     "code": ""
   }
-]
+    ]
